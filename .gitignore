@@ -4,3 +4,5 @@
 "*.pyc"  
 "geckodriver.log"  
 geckodriver.log  
+"*.pyc"  
+*.pyc  
